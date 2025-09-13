@@ -1,0 +1,18 @@
+name: AuctionPlus
+main: me.kryik.auctionplus.AuctionPlus
+version: by Kryik
+api-version: 1.18
+author: Kryik
+depend: [PlayerPoints]
+commands:
+  ah:
+    description: Открыть аукцион / продать / купить
+    usage: /ah [sell <цена>|buy <id>]
+    permission: auctionplus.use
+permissions:
+  auctionplus.use:
+    default: true
+  auctionplus.sell:
+    default: true
+  auctionplus.buy:
+    default: true

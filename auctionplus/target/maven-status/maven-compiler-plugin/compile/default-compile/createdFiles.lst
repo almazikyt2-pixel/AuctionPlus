@@ -1,0 +1,8 @@
+me\kryik\auctionplus\lot\AhCommand.class
+me\kryik\auctionplus\util\ItemSerializer.class
+me\kryik\auctionplus\db\LotDAO.class
+me\kryik\auctionplus\AuctionPlus.class
+me\kryik\auctionplus\lot\AuctionActions.class
+me\kryik\auctionplus\db\LotDAO$LotRecord.class
+me\kryik\auctionplus\lot\AhMenu.class
+me\kryik\auctionplus\db\Database.class

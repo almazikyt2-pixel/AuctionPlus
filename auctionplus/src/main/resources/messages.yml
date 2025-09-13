@@ -1,0 +1,14 @@
+prefix: "&6[Аукцион]&f "
+lot_added: "Вы выставили лот: &e%item% &fза &a%price% &fмонет."
+lot_removed: "Ваш лот &e%item% &fснят с аукциона."
+lot_expired: "Срок лота &e%item% &fистёк. Заберите его командой /ah claim."
+lot_bought: "Вы купили &e%item% &fу игрока &b%owner% &fза &a%price% &fмонет."
+owner_lot_hover: |
+  &7Владелец: &f%owner%
+  &7ID: &f%id%
+  &7Предмет: &f%item%
+  &7Цена: &a%price%
+lot_hover: |
+  &7ID: &f%id%
+  &7Предмет: &f%item%
+  &7Цена: &a%price%

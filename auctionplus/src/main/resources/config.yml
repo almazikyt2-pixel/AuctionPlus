@@ -1,0 +1,13 @@
+# === AuctionPlus Config ===
+min-price: 10
+lot-expire-days: 3
+default-lot-limit: 3
+
+messages:
+  lot-lore:
+    - "&7Владелец: &e%owner%"
+    - "&7ID: &e%id%"
+    - "&7Предмет: &e%item%"
+    - "&7Цена: &a%price%"
+  bought: "&aВы купили %item% у игрока %owner% за %price% рублей!"
+  config-reloaded: "&aКонфиг перезагружен!"
